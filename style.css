@@ -1,0 +1,11 @@
+body {
+    background-color: grey;
+}
+.div1 {
+    border: 2px dashed black;
+    margin: 10px;
+}
+.div2 {
+    border: 4px dotted red;
+    margin: 10px;
+}
